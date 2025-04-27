@@ -31,5 +31,6 @@
 ### SpringBoot
 
 - ```spring-boot-examples``` [Link](https://github.com/ityouknow/spring-boot-examples)
+- ```SpringBoot-Labs``` [Link](https://github.com/yudaocode/SpringBoot-Labs)
 
 
