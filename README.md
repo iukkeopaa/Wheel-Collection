@@ -38,3 +38,7 @@
 - ```micro-DB``` [Link](https://github.com/nothingax/micro-DB)
 - ```MYDB``` [Link](https://github.com/CN-GuoZiyang/MYDB)
 
+### Mybatis
+
+- ```book-small-mybatis``` [Link](https://github.com/fuzhengwei/book-small-mybatis)
+
