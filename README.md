@@ -44,3 +44,7 @@
 
 - ```book-small-mybatis``` [Link](https://github.com/fuzhengwei/book-small-mybatis)
 
+### SlowSql
+
+- ```sql-slow-mirror``` [Link](https://github.com/lhccong/sql-slow-mirror)
+
