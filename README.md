@@ -37,7 +37,9 @@
 
 - ```micro-DB``` [Link](https://github.com/nothingax/micro-DB)
 - ```MYDB``` [Link](https://github.com/CN-GuoZiyang/MYDB)
+### Distribute Lock
 
+- ```DistributedLock``` [Link](https://github.com/yangliu0/DistributedLock)
 ### Mybatis
 
 - ```book-small-mybatis``` [Link](https://github.com/fuzhengwei/book-small-mybatis)
