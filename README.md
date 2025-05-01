@@ -27,6 +27,7 @@
 - ```small-spring``` [Link](https://github.com/fuzhengwei/small-spring)
 - ```mini-spring``` [Link](https://github.com/DerekYRC/mini-spring)
 - ```tiny-spring``` [Link](https://github.com/code4craft/tiny-spring)
+- ```SpringAll``` [Link](https://github.com/wuyouzhuguli/SpringAll)
 
 ### SpringBoot
 
